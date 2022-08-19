@@ -7,19 +7,19 @@ const BenefitSection = () => {
     <div className="description">
       <div className="title">
         <div className="hide1">
-          <h1>High quality learning system</h1>
+          <h2>High quality learning system</h2>
         </div>
         <div className="hide2">
-          <h2>Online platform</h2>
+          <h3>Online platform</h3>
         </div>
         <div className="hide2">
-          <h2>High experienced and talented mentors</h2>
+          <h3>High experienced and talented mentors</h3>
         </div>
         <div className="hide2">
-          <h2>Fast learning system</h2>
+          <h3>Fast learning system</h3>
         </div>
         <div className="hide2">
-          <h2>Offline school for children</h2>
+          <h3>Offline school for children</h3>
         </div>
       </div>
       <div className="image">
