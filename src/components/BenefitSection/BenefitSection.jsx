@@ -35,7 +35,7 @@ const Benefits = styled(About)`
     font-weight: 400;
     color: #000;
     margin: 1rem;
-    width: 70%;
+    width: 78%;
     clip-path: polygon(0 5%, 100% 0, 100% 95%, 0% 100%);
     border-left: 4px solid #30bee1;
   }
